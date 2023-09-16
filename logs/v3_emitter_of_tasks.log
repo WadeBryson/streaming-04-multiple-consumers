@@ -1,13 +1,19 @@
-2023-09-16 11:33:25,240.v3_emitter_of_tasks.INFO ==================================================
-2023-09-16 11:33:25,240.v3_emitter_of_tasks.INFO Today is 2023-09-16 at 11:33 AM
-2023-09-16 11:33:25,241.v3_emitter_of_tasks.INFO Running on: nt Windows 10
-2023-09-16 11:33:25,241.v3_emitter_of_tasks.INFO Python version:  3.11.3
-2023-09-16 11:33:25,242.v3_emitter_of_tasks.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers\.venv
-2023-09-16 11:33:25,242.v3_emitter_of_tasks.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers
-2023-09-16 11:33:25,243.v3_emitter_of_tasks.INFO ==================================================
-2023-09-16 11:33:38,943.v3_emitter_of_tasks.INFO  [x] Sent ['First task....']
-2023-09-16 11:33:41,944.v3_emitter_of_tasks.INFO  [x] Sent ['Second task....']
-2023-09-16 11:33:44,946.v3_emitter_of_tasks.INFO  [x] Sent ['Third task....']
-2023-09-16 11:33:47,947.v3_emitter_of_tasks.INFO  [x] Sent ['Forth task...']
-2023-09-16 11:33:50,948.v3_emitter_of_tasks.INFO  [x] Sent ['Fifth task...']
-2023-09-16 11:33:53,950.v3_emitter_of_tasks.INFO  [x] Sent ['Sixth task...']
+2023-09-16 11:36:53,796.v3_emitter_of_tasks.INFO ==================================================
+2023-09-16 11:36:53,797.v3_emitter_of_tasks.INFO Today is 2023-09-16 at 11:36 AM
+2023-09-16 11:36:53,797.v3_emitter_of_tasks.INFO Running on: nt Windows 10
+2023-09-16 11:36:53,797.v3_emitter_of_tasks.INFO Python version:  3.11.3
+2023-09-16 11:36:53,797.v3_emitter_of_tasks.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers\.venv
+2023-09-16 11:36:53,798.v3_emitter_of_tasks.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers
+2023-09-16 11:36:53,798.v3_emitter_of_tasks.INFO ==================================================
+2023-09-16 11:36:58,241.v3_emitter_of_tasks.INFO  [x] Sent ['First task....']
+2023-09-16 11:37:01,242.v3_emitter_of_tasks.INFO  [x] Sent ['Second task....']
+2023-09-16 11:37:04,243.v3_emitter_of_tasks.INFO  [x] Sent ['Third task....']
+2023-09-16 11:37:07,245.v3_emitter_of_tasks.INFO  [x] Sent ['Forth task...']
+2023-09-16 11:37:10,246.v3_emitter_of_tasks.INFO  [x] Sent ['Fifth task...']
+2023-09-16 11:37:13,247.v3_emitter_of_tasks.INFO  [x] Sent ['Sixth task...']
+2023-09-16 11:37:16,248.v3_emitter_of_tasks.INFO  [x] Sent ['Seventh task.....']
+2023-09-16 11:37:19,249.v3_emitter_of_tasks.INFO  [x] Sent ['Eighth task ........']
+2023-09-16 11:37:22,251.v3_emitter_of_tasks.INFO  [x] Sent ['Ninth task ..']
+2023-09-16 11:37:25,253.v3_emitter_of_tasks.INFO  [x] Sent ['Tenth task ....']
+2023-09-16 11:37:28,254.v3_emitter_of_tasks.INFO  [x] Sent ['Eleventh task ..........']
+2023-09-16 11:37:31,256.v3_emitter_of_tasks.INFO  [x] Sent ['Twelfth task .....']
