@@ -1,0 +1,13 @@
+2023-09-16 11:33:25,240.v3_emitter_of_tasks.INFO ==================================================
+2023-09-16 11:33:25,240.v3_emitter_of_tasks.INFO Today is 2023-09-16 at 11:33 AM
+2023-09-16 11:33:25,241.v3_emitter_of_tasks.INFO Running on: nt Windows 10
+2023-09-16 11:33:25,241.v3_emitter_of_tasks.INFO Python version:  3.11.3
+2023-09-16 11:33:25,242.v3_emitter_of_tasks.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers\.venv
+2023-09-16 11:33:25,242.v3_emitter_of_tasks.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers
+2023-09-16 11:33:25,243.v3_emitter_of_tasks.INFO ==================================================
+2023-09-16 11:33:38,943.v3_emitter_of_tasks.INFO  [x] Sent ['First task....']
+2023-09-16 11:33:41,944.v3_emitter_of_tasks.INFO  [x] Sent ['Second task....']
+2023-09-16 11:33:44,946.v3_emitter_of_tasks.INFO  [x] Sent ['Third task....']
+2023-09-16 11:33:47,947.v3_emitter_of_tasks.INFO  [x] Sent ['Forth task...']
+2023-09-16 11:33:50,948.v3_emitter_of_tasks.INFO  [x] Sent ['Fifth task...']
+2023-09-16 11:33:53,950.v3_emitter_of_tasks.INFO  [x] Sent ['Sixth task...']

@@ -1,0 +1,15 @@
+2023-09-16 11:32:58,908.v3_listening_workers.INFO ==================================================
+2023-09-16 11:32:58,908.v3_listening_workers.INFO Today is 2023-09-16 at 11:32 AM
+2023-09-16 11:32:58,909.v3_listening_workers.INFO Running on: nt Windows 10
+2023-09-16 11:32:58,909.v3_listening_workers.INFO Python version:  3.11.3
+2023-09-16 11:32:58,909.v3_listening_workers.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers\.venv
+2023-09-16 11:32:58,910.v3_listening_workers.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-04-multiple-consumers
+2023-09-16 11:32:58,910.v3_listening_workers.INFO ==================================================
+2023-09-16 11:32:58,941.v3_listening_workers.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-16 11:33:38,943.v3_listening_workers.INFO  [x] Received ['First task....']
+2023-09-16 11:33:42,944.v3_listening_workers.INFO  [x] Done.
+2023-09-16 11:33:44,947.v3_listening_workers.INFO  [x] Received ['Third task....']
+2023-09-16 11:33:48,948.v3_listening_workers.INFO  [x] Done.
+2023-09-16 11:33:50,948.v3_listening_workers.INFO  [x] Received ['Fifth task...']
+2023-09-16 11:33:53,951.v3_listening_workers.INFO  [x] Done.
+2023-09-16 11:34:58,969.v3_listening_workers.INFO  User interrupted continuous listening process.
